@@ -30,7 +30,7 @@ python predict.py -i ./data/test_images/ -o ./output/
 
 ## Pretrained Weights
 
-Here is a model trained with multiple datasets (all images are used for training). Now I am using it for universal retinal vessel extraction and classification. In my test, it works well on new data even with very different brightness, color, etc. In my case, no fine-tunning is needed.
+Here is a model trained with multiple datasets (all images in DRIVE, LES-AV, and HRF are used for training). Now I am using it for universal retinal vessel extraction and classification. In my test, it works well on new data even with very different brightness, color, etc. In my case, no fine-tunning is needed.
 
 [Link will come soon](https://)
 
@@ -38,8 +38,11 @@ Please put it under `trained_model/ALL/`.
 
 The segmentation results of retinal images from some other datasets.
 
-![Segmentation Result (come soon)](./pics/other_data_1.jpg)
-![Segmentation Result (come soon)](./pics/other_data_2.jpg)
+![Raw File](./pics/raw.jpg)
+![Segmentation Result](./pics/seg.png)
+![Classification Result](./pics/cls.png)
+
+Although I don't know the classification result is correct or not (as I don't have ground-truth label of this image), it seems nice for me.
 
 ## Publication
 
