@@ -36,7 +36,7 @@ Here is a model trained with multiple datasets (all images in DRIVE, LES-AV, and
 
 Please put it under `trained_model/ALL/`.
 
-The segmentation results of retinal images from some other datasets.
+The classification results of retinal images from some other datasets.
 
 ![Raw File](./pics/raw.jpg)
 ![Segmentation Result](./pics/seg.png)
