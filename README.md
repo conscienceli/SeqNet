@@ -42,7 +42,7 @@ The classification results of retinal images from some other datasets.
 ![Segmentation Result](./pics/seg.png)
 ![Classification Result](./pics/cls.png)
 
-Although I don't know the classification result is correct or not (as I don't have ground-truth label of this image), it seems nice for me.
+<ins>Although I don't know the classification result is correct or not (as I don't have ground-truth label of this image), it seems nice for me.</ins>
 
 ## Publication
 
