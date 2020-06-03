@@ -32,7 +32,7 @@ python predict.py -i ./data/test_images/ -o ./output/
 
 Here is a model trained with multiple datasets (all images in DRIVE, LES-AV, and HRF are used for training). Now I am using it for universal retinal vessel extraction and classification. In my test, it works well on new data even with very different brightness, color, etc. In my case, no fine-tunning is needed.
 
-[Link will come soon](https://)
+[Download from Google Drive](https://drive.google.com/file/d/1OYjzu0gixtga6e7Rvb2mZoSSYJkXWRNB/view?usp=sharing)
 
 Please put it under `trained_model/ALL/`.
 
